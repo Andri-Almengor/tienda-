@@ -1,0 +1,4 @@
+[
+  { "id": "s1", "name": "Super Centro", "lat": 9.932, "lng": -84.078, "address": "San José" },
+  { "id": "s2", "name": "MiniMarket Norte", "lat": 9.94, "lng": -84.07, "address": "Barrio México" }
+]

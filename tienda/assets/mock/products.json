@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Arroz 1kg",
+    "brand": "La Cimarrona",
+    "price": 1200,
+    "province": "San José",
+    "storeName": "Super Centro",
+    "mapUrl": "https://maps.google.com/?q=Super+Centro+San+Jose",
+    "description": "Arroz blanco 1kg, grano mediano",
+    "imageUrl": ""
+  },
+  {
+    "id": "2",
+    "name": "Frijoles 500g",
+    "brand": "Don Pedro",
+    "price": 950,
+    "province": "Heredia",
+    "storeName": "MiniMarket Norte",
+    "mapUrl": "https://maps.google.com/?q=MiniMarket+Norte+Heredia",
+    "description": "Frijol negro",
+    "imageUrl": ""
+  },
+  {
+    "id": "3",
+    "name": "Aceite 900ml",
+    "brand": "Girasol",
+    "price": 2100,
+    "province": "Cartago",
+    "storeName": "Abastecedor Centro",
+    "mapUrl": "https://maps.google.com/?q=Abastecedor+Centro+Cartago",
+    "description": "Aceite vegetal",
+    "imageUrl": ""
+  }
+]
